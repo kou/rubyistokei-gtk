@@ -2,7 +2,7 @@
 
 This is a GTK+ frontend for [Rubyistokei](http://rubyistokei.herokuapp.com/).
 
-## Use
+## How to use
 
     % git clone https://github.com/kou/rubyistokei-gtk.git
     % cd rubyistokei-gtk
